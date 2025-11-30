@@ -3,10 +3,11 @@ title: "Introduction"
 type: docs
 ---
 
-# 👋 Welcome to My Homelab
+# Welcome to My Homelab
 
-This is my technical portfolio documenting my journey into Cloud, Cybersecurity, and IT Infrastructure.
+My technical deep dive: Documentation for projects exploring the fundamentals of Cloud, Cybersecurity, and IT Infra.
 
-## 🚀 Projects
+## Projects
 * **[Cloud Infrastructure](/docs/cloud-infra/)** - How I built this serverless website on AWS.
-* **[Homelab Setup](/docs/homelab/)** - My Proxmox and Orange Pi configuration.
+* **[Homelab Setup](/docs/homelab/)** - Everything there is to know about my homelab.
+* **[Cheatsheet of useful commands](/docs/cheatsheet)** - This is a list of commands that I personally find useful, feel free to use them too.
