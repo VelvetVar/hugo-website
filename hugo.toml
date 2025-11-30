@@ -1,0 +1,9 @@
+baseURL = 'https://rodrigomartin.me/'
+languageCode = 'en-us'
+title = 'Rodrigo Martin'
+theme = 'book'
+
+[params]
+  # (Optional) Link to your GitHub repo for "Edit this page" buttons
+  BookRepo = 'https://github.com/VelvetVar/hugo-website'
+  BookSection = '*'
