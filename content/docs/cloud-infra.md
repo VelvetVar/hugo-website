@@ -115,4 +115,9 @@ The function operates on the `event` object passed by CloudFront. It modifies th
 ```javascript
 if (uri.endsWith('/')) { ... }
 ```
+### Condition B: Extensionless (Clean) URL Detection
+```javascript
+else if (!uri.includes('.')) { ... }
+```
+
 ---
