@@ -1,14 +1,11 @@
 ---
-title: "Cloud Project: Cloud Portfolio Infrastructure"
+title: "AWS Static Website"
 description: "Technical documentation of the AWS, Cloudflare, and Hugo (Book) architecture."
-weight: 30
+weight: 10
 draft: false
-menu:
-  docs:
-    parent: "aws-folder"
 ---
 
-# Cloud Portfolio Infrastructure
+# Cloud Infrastructure
 
 **Project Status:** Live Production
 **Stack:** AWS (S3, CloudFront), Cloudflare, Hugo (Book Theme)

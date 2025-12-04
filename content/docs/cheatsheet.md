@@ -1,11 +1,8 @@
 ---
 title: "Commands: Cheatsheet"
 description: "Technical documentation of the AWS, Cloudflare, and Hugo (Book) architecture."
-weight: 90
+weight: 20
 draft: false
-menu:
-  docs:
-    parent: "aws-folder"
 ---
 
 ## Hugo & AWS Cloud Portfolio Cheatsheet

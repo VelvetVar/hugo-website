@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rodrigomartin.me/docs/cloud-infra/</loc>
+    <loc>http://localhost:1313/docs/cloud-infra/</loc>
   </url><url>
-    <loc>https://rodrigomartin.me/docs/cheatsheet/</loc>
+    <loc>http://localhost:1313/docs/cheatsheet/</loc>
   </url><url>
-    <loc>https://rodrigomartin.me/categories/</loc>
+    <loc>http://localhost:1313/docs/homelab/</loc>
   </url><url>
-    <loc>https://rodrigomartin.me/docs/</loc>
+    <loc>http://localhost:1313/docs/homelab-services/</loc>
   </url><url>
-    <loc>https://rodrigomartin.me/</loc>
+    <loc>http://localhost:1313/docs/windows-ad/</loc>
   </url><url>
-    <loc>https://rodrigomartin.me/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
