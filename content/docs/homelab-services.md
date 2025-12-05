@@ -5,7 +5,7 @@ description: "Inventory of the hybrid x86/ARM compute cluster and managed networ
 draft: false
 ---
 ## Windows AD in Proxmox
-* **[Windows AD](/docs/windows-ad/)** - Rundown on how I installed a Windows Server (2022 Release) in Proxmox VM.
+* **[Windows AD](/docs/services/windows-ad/)** - Rundown on how I installed a Windows Server (2022 Release) in Proxmox VM.
 
 
 ## Coming soon, working on documentation.
